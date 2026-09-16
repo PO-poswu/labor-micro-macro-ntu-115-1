@@ -1,0 +1,165 @@
+---
+title: "Micro and Macro Perspectives of the Labor Market"
+subtitle: "Fall 2026"
+format:
+  revealjs: 
+    slide-number: true
+    show-slide-number: all
+    chalkboard: 
+      buttons: true
+    preview-links: auto
+    freeze: auto
+    # logo: images/quarto.png
+    css: styles.css
+    # footer: '[https://quarto.org](https://quarto.org)'
+---
+
+## Course Information
+
+- Instructor: Po-Shyan Wu
+- Email: "poshyanwu@ntu.edu.tw"
+- Office: Room 408
+- Class time: Wednesdays 10:20-12:10
+
+## About the Instructor
+
+Research Interests:
+
+- Macroeconomics
+- Spatial Economics
+- Labor, Development, Economic History
+
+Course I teach:
+
+::: {.incremental}
+- Public Economics (Wed 2, 3, 4)
+- [Micro and Macro Perspectives of the Labor Market]{.fragment .highlight-red}
+- International Finance (Spring 2027)
+:::
+
+# Part 1: Introduction
+
+## Why another labor economics course?
+
+Current/recent NTU labor economics courses:
+::: {.incremental}
+- ECON4009 Labor Economics I
+- ECON5211 Labor Economics II
+- ECON5212 Labor Economics II
+- ECON5163 Topics in Labor Economics: Empirical Methods and Applications
+- ECON7220 Macro-Labor Economics
+- AGEC8024 Topics in Labor Economics and Agricultural Labor
+:::
+
+## Other NTU labor econ courses {.smaller}
+
+::: {.incremental}
+- ECON4009 Labor Economics I: ... is directed at students contemplating research in the "applied micro" fields ... It is a course in empirical modelling and applied econometrics ...
+- ECON5211 Labor Economics II: ... the theory of matching and marriage ...
+- ECON5212 Labor Economics II: ... dynamic methods and their applications in labor economics ...
+- ECON5163 Topics in Labor Economics: ... labor supply, labor demand, labor market discrimination, tax incidence, social insurance, and behavioral labor economics ...
+- ECON7220 Macro-Labor Economics: ... search, matching, and related models in the labor market. These models are designed to explain the existence of unemployment and of wage dispersion across similar workers ...
+- AGEC8024 Topics in Labor Economics and Agricultural Labor: ... theoretical and empirical analysis of agricultural and nonagricultural labor market. Issues include demand for and supply of labors (especially farm workers and farm household), human capital, income distribution, income inequality and labor migration ...
+:::
+
+## By the way,
+
+::: {.fragment .fade-in-then-semi-out}
+- Have you taken a labor economics course before?
+:::
+
+::: {.fragment .fade-in-then-semi-out}
+- Have you taken an intermediate microeconomics/macroeconomics course before?
+:::
+
+::: {.fragment .fade-in}
+- Name any previous encounter with labor topics (not restricted to economics) that you have had.
+:::
+
+# Syllabus & Schedule
+
+---
+
+## How many of you have
+
+::: {.incremental}
+- thesis/dissertation/research requirements in your program?
+- to read research papers for other courses?
+- been using AI to help you with your coursework/projects/things?
+:::
+
+## This course is designed to help you
+
+- do all those things
+- and teach you labor economics along the way
+
+## Course materials (main references) {.smaller}
+
+Textbooks
+
+- Cahuc, Pierre, Stéphane Carcillo, and André Zylberberg. 2014. *Labor Economics*. Second Edition. Cambridge, MA: MIT Press.
+- Boeri, Tito, and Jan C. van Ours. 2021. *The Economics of Imperfect Labor Markets*. Third edition. Princeton Oxford: Princeton University Press.
+
+Academic journal articles
+
+- Frontier research paper published in top journals
+- Selection criteria for this course:
+
+## Grading
+
+- Assignments: 30%
+- Participation: 20%
+- Project (building toward your own portfolio & presenting it): 50%
+  - Milestones: 30%
+  - Presentation & Portfolio: 20%
+
+# Portfolio Project
+
+---
+
+## Portfolio
+
+::: {.incremental}
+- A collection of your work in this course
+- Writing, data visualization, simulation, annoatated bibliography, archival work, survey, oral history, structural estimation, RCT, pure theory, ...
+:::
+
+Structure (course requirements):
+
+## Reproducible science
+
+- Transparency, reproducibility, and availability of research data and code
+- https://datacodestandard.org/
+- AEA Data and Code Policies and Guidance: Prior to acceptance, authors of papers that contain empirical work, simulations, or experimental work must provide the data, code, and other details of the computations sufficient to permit replication.
+
+---
+
+![](images/W1/nature-1500.png)
+
+---
+
+![](images/W1/nature-pie.png)
+
+---
+
+![](images/W1/harvard.png)
+
+## Our approach
+ 
+1. Assignments (15% + 15%) — mapping published replication packages
+2. Milestones (30%) — a series of assignments that build toward your portfolio
+ 
+## The Process
+
+- Milestone 0: Getting started
+- Milestone 1-5: Replicating the "parts" of a published paper
+- Reflective cover letter
+- Presentation
+
+# AI and the Challenge/Opportunity of Our Time
+
+# Participation (that remaining 20%)
+
+## Today
+
+A demo
